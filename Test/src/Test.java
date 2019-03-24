@@ -8,7 +8,7 @@ public class Test {
 		       }
 		   
 		       static int test() {
-		           int x = 1;
+		           int x = 0;
 		         try {  
 	           return x;
 		         } finally {
