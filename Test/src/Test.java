@@ -9,7 +9,7 @@ public class Test {
 		   
 		       static int test() {
 		           int x = 1;
-		         try {
+		         try {  
 	           return x;
 		         } finally {
 		              ++x;
